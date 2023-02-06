@@ -6,7 +6,7 @@ It was bootstrapped by React + Vite in conjunction with TailwindCSS.
 
 
 
-![H-home](https://user-images.githubusercontent.com/120362599/216984783-c00e8d55-4d51-4c25-900c-b6a420c57815.png)
-![H-biz](https://user-images.githubusercontent.com/120362599/216984841-35737ed6-0b62-4b9e-ae13-1d3c124d6c82.png)
-![H-bill](https://user-images.githubusercontent.com/120362599/216984859-7b3944b9-b5f0-4634-9650-265ac75b125d.png)
-![H-testimonials](https://user-images.githubusercontent.com/120362599/216984886-6ab89142-eaf9-4ee5-8c1f-ea50060150be.png)
+![H-biz (2)](https://user-images.githubusercontent.com/120362599/216994173-62d09e0a-324f-4c61-bba7-41faaa88c581.png)
+![H-home (2)](https://user-images.githubusercontent.com/120362599/216994186-18750ae8-3ade-49fd-996e-58e81011a48a.png)
+![H-bill (2)](https://user-images.githubusercontent.com/120362599/216994260-9cb58598-e473-49d8-b06d-805482e15071.png)
+![H-testimonials (2)](https://user-images.githubusercontent.com/120362599/216994298-6cf49f04-0568-44b3-84d0-51cdb7ddb8ed.png)
